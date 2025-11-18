@@ -1,0 +1,156 @@
+﻿No;Inisial KPN ;Tanggal Mulai Layanan (Tgl/Bln/Thn);Jenis Kelamin ;Alamat Lengkap ;Jenis NAPZA yang digunakan (dapat lebih dari 1);Lama Penggunaan NAPZA;Tingkat Keparahan
+1;ST;19 Februari 2025;Laki-Laki;Jl. Sutomo No. 11;Morfin;4 Tahun;Sedang
+2;TU;20 Februari 2025;Laki-Laki;Komp. Taman Sari Blok D2 No. 3;"Ganja; Lem";3 Tahun;Ringan
+3;UV;21 Februari 2025;Perempuan;Jl. Jendral Sudirman No. 49;Heroin;8 Tahun;Berat
+4;VW;01 Maret 2025;Laki-Laki;Jl. Gajah Mada No. 88;"Benzodiazepin; Shabu";2 Tahun;Sedang
+5;WX;02 Maret 2025;Laki-Laki;Jl. Pusara No. 19;"Ekstasi; Opium";5 Tahun;Berat
+6;XY;03 Maret 2025;Laki-Laki;Jl. Sumber Rejeki No. 3;Lem;1 Tahun;Ringan
+7;YZ;04 Maret 2025;Laki-Laki;Jl. Sari Rejo No. 7;Opium;7 Tahun;Berat
+8;ZA;05 Maret 2025;Laki-Laki;Jl. Deli Serdang No. 5;"Ganja; Alkohol";4 Tahun;Sedang
+9;AB;06 Maret 2025;Laki-Laki;Jl. Setia Luhur No. 10;Heroin;9 Tahun;Berat
+10;BC;07 Maret 2025;Laki-Laki;Komplek Permata Indah Blok H7 No. 8;"Ekstasi; Shabu";2 Tahun;Ringan
+11;CD;09 Maret 2025;Perempuan;Jl. Teladan No. 87;Alkohol;3 Tahun;Ringan
+12;DE;10 Maret 2025;Laki-Laki;Jl. Griya Persada No. 14;Shabu;11 Tahun;Berat
+13;EF;12 Maret 2025;Laki-Laki;Jl. Menteng VII No. 32;"Ganja; Lem";5 Tahun;Sedang
+14;FG;13 Maret 2025;Laki-Laki;Desa Sei Rotan Dusun III;Kokain;8 Tahun;Berat
+15;GH;14 Maret 2025;Perempuan;Jl. Bambu Kuning No. 21;Ekstasi;1 Tahun;Ringan
+16;HI;15 Maret 2025;Laki-Laki;Jl. Budi Utomo No. 6;"Shabu; Alkohol";7 Tahun;Berat
+17;IJ;16 Maret 2025;Laki-Laki;Jl. Cantik Manis No. 2;"Opium; Morfin";5 Tahun;Sedang
+18;JK;17 Maret 2025;Laki-Laki;Jl. Turi No. 22;"Heroin; Lem";13 Tahun;Sangat Berat
+19;KL;18 Maret 2025;Laki-Laki;Jl. Kamboja Ujung No. 61;Ganja;2 Tahun;Ringan
+20;LM;19 Maret 2025;Laki-Laki;Jl. Suka Jadi No. 13;Benzodiazepin;7 Tahun;Berat
+21;MN;20 Maret 2025;Perempuan;Jl. Simpang Selayang No. 5;Shabu;3 Tahun;Sedang
+22;NO;21 Maret 2025;Laki-Laki;Jl. Veteran No. 19;"Ekstasi; Alkohol";6 Tahun;Berat
+23;OP;22 Maret 2025;Laki-Laki;Jl. Titi Kuning No. 12;"Ganja; Shabu";4 Tahun;Sedang
+24;PQ;23 Maret 2025;Perempuan;Jl. Sei Mencirim No. 31;"Heroin; LSD";8 Tahun;Berat
+25;QR;24 Maret 2025;Laki-Laki;Jl. Ayahanda No. 7;Lem;2 Tahun;Ringan
+26;RS;25 Maret 2025;Laki-Laki;Jl. Sisingamangaraja Gg. Suka Ria No. 5;"Opium; Alkohol";11 Tahun;Sangat Berat
+27;ST;26 Maret 2025;Laki-Laki;Jl. Pelangi No. 3;Shabu;1 Tahun;Ringan
+28;TU;27 Maret 2025;Perempuan;Jl. Tanjung Anom No. 8;"Ganja; Alkohol";10 Tahun;Berat
+29;UV;28 Maret 2025;Laki-Laki;Perumahan Taman Sari Sejahtera Blok L2 No. 7;Heroin;5 Tahun;Sedang
+30;VW;29 Maret 2025;Laki-Laki;Jl. Rawa Indah No. 21;Ekstasi;2 Tahun;Ringan
+31;AIT;30 Maret 2025;Laki-Laki;Jalan Sukabumi No. 7;Ekstasi;2 Tahun;Sedang
+32;INS;31 Maret 2025;Perempuan;Gang Sukabumi No. 554 ;Ekstasi;7 Tahun;Sedang
+33;WBO;Tuesday, 01 April 2025;Laki-Laki;Gang Dr. Djunjunan No. 406 ;Ekstasi;9 Tahun;Sedang
+34;XNU;Thursday, 03 April 2025;Perempuan;Jalan Rajawali Timur No. 31 Dumai;Heroin;3 Tahun;Sedang
+35;WJA;Friday, 04 April 2025;Laki-Laki;Gang Waringin No. 22 ;Shabu;8 Tahun;Berat
+36;UPA;Saturday, 05 April 2025;Perempuan;Jl. Dahlia No. 15;Ekstasi;6 Tahun;Berat
+37;KWK;Sunday, 06 April 2025;Laki-Laki;Jl. Mawar No. 10;Heroin;5 Tahun;Berat
+38;FHW;Monday, 07 April 2025;Laki-Laki;Jl. Medokan Ayu No. 05;Heroin;1 Tahun;Ringan
+39;QLM;Tuesday, 08 April 2025;Laki-Laki;Jl. Cihampelas No. 31;Heroin;5 Tahun;Sedang
+40;RVC;Wednesday, 09 April 2025;Laki-Laki;Jalan Veteran No. 5 Bandar Lampung;Shabu;5 Tahun;Berat
+41;LLZ;Thursday, 10 April 2025;Perempuan;Jl. Merpati No. 22;Shabu;5 Tahun;Sedang
+42;JVQ;Friday, 11 April 2025;Perempuan;Jl. Jend. Sudirman No. 47 Binjai;Heroin;4 Tahun;Sedang
+43;RFC;Saturday, 12 April 2025;Laki-Laki;Gang KH Amin Jasuta ;Ekstasi;3 Tahun;Ringan
+44;BLO;Sunday, 13 April 2025;Laki-Laki;Jalan Veteran No. 4 ;Heroin;6 Tahun;Sedang
+45;XGA;Monday, 14 April 2025;Perempuan;Gang Rajawali Barat No. 79 ;Heroin;1 Tahun;Berat
+46;PHG;Tuesday, 15 April 2025;Laki-Laki;Jl. Kendalsari No. 5 Batam;Ekstasi;5 Tahun;Ringan
+47;NJA;Wednesday, 16 April 2025;Laki-Laki;Gg. Dipatiukur No. 37 ;Ganja;4 Tahun;Ringan
+48;LZN;Thursday, 17 April 2025;Perempuan;Gg. Cempaka No. 27 ;Shabu;4 Tahun;Sedang
+49;UEP;Friday, 18 April 2025;Perempuan;Jl. Anggrek No. 7;Shabu;4 Tahun;Berat
+50;RUK;Saturday, 19 April 2025;Perempuan;Gg. Pasteur No. 39 Kendari;Heroin;1 Tahun;Ringan
+51;DIE;Sunday, 20 April 2025;Perempuan;Gg. Stasiun Wonokromo No. 06 Tanjungbalai;Ekstasi;3 Tahun;Ringan
+52;HXG;Monday, 21 April 2025;Perempuan;Gg. M.H Thamrin No. 79 ;Ganja;7 Tahun;Sedang
+53;AUS;Tuesday, 22 April 2025;Perempuan;Jl. Kebonjati No. 9 ;Shabu;7 Tahun;Berat
+54;KJQ;Thursday, 24 April 2025;Perempuan;Gg. Cikapayang No. 3 Sumatera Utara ;Ganja;2 Tahun;Berat
+55;KAY;Friday, 25 April 2025;Perempuan;Jl. Anggrek No. 7;Ekstasi;9 Tahun;Sedang
+56;RNU;Saturday, 26 April 2025;Perempuan;Jl. Ahmad Yani No. 8;Ekstasi;2 Tahun;Sedang
+57;MEJ;Sunday, 27 April 2025;Laki-Laki;Gg. Cihampelas No. 59 ;Ganja;1 Tahun;Sedang
+58;FKJ;Monday, 28 April 2025;Laki-Laki;Gang Wonoayu No. 6;Heroin;9 Tahun;Sedang
+59;ECS;Tuesday, 29 April 2025;Laki-Laki;Gg. Stasiun Wonokromo No. 7 Padang Sidempuan;Shabu;5 Tahun;Ringan
+60;JYV;Wednesday, 30 April 2025;Perempuan;Jl. Rajawali No. 8;Ekstasi;8 Tahun;Ringan
+61;EGQ;01 Mei 2025;Laki-Laki;Gg. Joyoboyo No. 9;Heroin;6 Tahun;Sedang
+62;BIF;02 Mei 2025;Laki-Laki;Jalan Indragiri No. 92 ;Ganja;3 Tahun;Berat
+63;NFP;03 Mei 2025;Perempuan;Jl. Moch. Ramdan No. 3;Shabu;4 Tahun;Berat
+64;UOZ;05 Mei 2025;Laki-Laki;Jalan Pasir Koja No. 6;Ekstasi;3 Tahun;Ringan
+65;GXA;06 Mei 2025;Perempuan;Jl. Melati No. 5;Ekstasi;7 Tahun;Berat
+66;LRL;13 Mei 2025;Perempuan;Jl. Ahmad Yani No. 32;Heroin;7 Tahun;Sedang
+67;NQI;14 Mei 2025;Laki-Laki;Jl. Dahlia No. 15;Ganja;3 Tahun;Ringan
+68;QZB;15 Mei 2025;Laki-Laki;Jl. Merdeka No. 9;Ganja;10 Tahun;Berat
+69;WFL;16 Mei 2025;Laki-Laki;Gg. Sentot Alibasa No. 4 ;Ganja;5 Tahun;Sedang
+70;VIE;17 Mei 2025;Perempuan;Gg. Astana Anyar No. 07 ;Ekstasi;2 Tahun;Sedang
+71;KGE;18 Mei 2025;Laki-Laki;Jalan Moch. Ramdan No. 1 ;Shabu;1 Tahun;Ringan
+72;QLJ;19 Mei 2025;Laki-Laki;Jalan Antapani Lama No. 4 ;Heroin;5 Tahun;Ringan
+73;NKA;20 Mei 2025;Perempuan;Gg. Stasiun Wonokromo ;Ekstasi;5 Tahun;Berat
+74;NBP;21 Mei 2025;Perempuan;Gang S. Parman No. 09 P;Shabu;1 Tahun;Ringan
+75;WHG;22 Mei 2025;Perempuan;Gang Merdeka No. 09;Ekstasi;4 Tahun;Ringan
+76;AIG;23 Mei 2025;Laki-Laki;Jl. Pasteur Bukittinggi;Ekstasi;3 Tahun;Ringan
+77;XSX;25 Mei 2025;Laki-Laki;Gang W.R. Supratman ;Heroin;1 Tahun;Sedang
+78;RTM;26 Mei 2025;Laki-Laki;Jl. Gedebage Selatan;Ganja;9 Tahun;Berat
+79;TAS;28 Mei 2025;Laki-Laki;Jl. Rajawali Timur No. 98 P;Shabu;7 Tahun;Berat
+80;TME;29 Mei 2025;Perempuan;Jl. Jamika No. 67;Ganja;4 Tahun;Sedang
+81;UWT;30 Mei 2025;Laki-Laki;Gang Cempaka No. 24 ;Ekstasi;2 Tahun;Ringan
+82;HZX;31 Mei 2025;Laki-Laki;Gg. Ahmad Yani No. 5 ;Shabu;6 Tahun;Ringan
+83;YXQ;01 Juni 2025;Laki-Laki;Jl. Melati No. 5;Heroin;1 Tahun;Ringan
+84;SRS;02 Juni 2025;Laki-Laki;Gg. Kebonjati No. 8 Sumatera Utara ;Shabu;1 Tahun;Sedang
+85;PWI;03 Juni 2025;Laki-Laki;Jl. Pasirkoja No. 9;Heroin;3 Tahun;Ringan
+86;SBO;04 Juni 2025;Laki-Laki;Gg. Monginsidi ;Ekstasi;4 Tahun;Ringan
+87;EAS;05 Juni 2025;Laki-Laki;Gang Kutai No. 50 ;Shabu;3 Tahun;Ringan
+88;KGS;06 Juni 2025;Perempuan;Gang Veteran ;Heroin;9 Tahun;Ringan
+89;SSG;07 Juni 2025;Laki-Laki;Gg. Merdeka No. 45 Bandar Lampung,;Ekstasi;6 Tahun;Ringan
+90;GVR;08 Juni 2025;Laki-Laki;Jl. Cikutra Timur No. 9;Ekstasi;10 Tahun;Ringan
+91;YQU;09 Juni 2025;Laki-Laki;Gang Sadang Serang No. 82;Shabu;2 Tahun;Sedang
+92;IOC;10 Juni 2025;Perempuan;Jl. Dahlia No. 15;Ekstasi;1 Tahun;Berat
+93;WWL;11 Juni 2025;Perempuan;Jalan Asia Afrika No. 3 Subulussalam;Heroin;9 Tahun;Ringan
+94;RXT;12 Juni 2025;Perempuan;Jalan Sukajadi No. 77 ;Ganja;5 Tahun;Sedang
+95;CGZ;14 Juni 2025;Laki-Laki;Gang Abdul Muis No. 8 ;Heroin;1 Tahun;Sedang
+96;XKV;15 Juni 2025;Laki-Laki;Gg. Pasir Koja No. 570 ;Shabu;2 Tahun;Ringan
+97;KKN;16 Juni 2025;Laki-Laki;Gang Monginsidi No. 4 ;Ganja;5 Tahun;Ringan
+98;BUI;17 Juni 2025;Perempuan;Gang Sukabumi No. 5 ;Heroin;6 Tahun;Sedang
+99;ORL;19 Juni 2025;Perempuan;Jalan Antapani Lama No. 94 ;Heroin;7 Tahun;Ringan
+100;KKE;20 Juni 2025;Laki-Laki;Jalan Medokan Ayu ;Ganja;6 Tahun;Sedang
+101;WOQ;21 Juni 2025;Laki-Laki;Gang Ciumbuleuit No. 9;Ganja;10 Tahun;Berat
+102;COS;23 Juni 2025;Perempuan;Gang Sukajadi No. 5;Heroin;6 Tahun;Sedang
+103;NJR;24 Juni 2025;Laki-Laki;Gang Sadang Serang No. 8 ;Ganja;9 Tahun;Sedang
+104;XJO;25 Juni 2025;Laki-Laki;Gg. Tubagus Ismail No. 04;Ganja;9 Tahun;Ringan
+105;OOL;27 Juni 2025;Laki-Laki;Jalan Erlangga ;Heroin;8 Tahun;Ringan
+106;TSD;28 Juni 2025;Laki-Laki;Jalan Rungkut Industri ;Shabu;1 Tahun;Berat
+107;LIN;29 Juni 2025;Perempuan;Jalan Jakarta Sibolga;Heroin;5 Tahun;Sedang
+108;MWS;30 Juni 2025;Laki-Laki;Gang Pasirkoja No. 8 ;Ganja;8 Tahun;Berat
+109;PGO;01 Juli 2025;Laki-Laki;Gg. Kendalsari No. 05 ;Heroin;1 Tahun;Sedang
+110;UMH;03 Juli 2025;Perempuan;Jalan Sukabumi No. 4 ;Ganja;10 Tahun;Ringan
+111;IBF;04 Juli 2025;Perempuan;Jalan Jend. A. Yani No. 7 ;Shabu;10 Tahun;Ringan
+112;QJX;07 Juli 2025;Perempuan;Gg. Jayawijaya No. 5 ;Heroin;6 Tahun;Sedang
+113;VFO;08 Juli 2025;Perempuan;Gg. Raya Setiabudhi No. 2 ;Heroin;10 Tahun;Sedang
+114;VXN;10 Juli 2025;Laki-Laki;Jalan Sukabumi No. 68;Heroin;6 Tahun;Sedang
+115;YGM;11 Juli 2025;Laki-Laki;Jl. Sentot Alibasa No. 1 ;Ekstasi;7 Tahun;Berat
+116;CBS;13 Juli 2025;Laki-Laki;Gg. Pasir Koja No. 1 ;Ekstasi;7 Tahun;Berat
+117;ISI;15 Juli 2025;Perempuan;Jl. Pasirkoja No. 080 Tomohon, KR 60336;Heroin;10 Tahun;Sedang
+118;NVE;16 Juli 2025;Laki-Laki;Gg. Kendalsari No. 50;Shabu;4 Tahun;Ringan
+119;XKL;17 Juli 2025;Perempuan;Jl. Stasiun Wonokromo ;Shabu;7 Tahun;Sedang
+120;NIR;18 Juli 2025;Laki-Laki;Gg. Sentot Alibasa No. 65;Shabu;2 Tahun;Sedang
+121;FFH;20 Juli 2025;Laki-Laki;Jl. Merpati No. 22;Ekstasi;7 Tahun;Ringan
+122;URK;21 Juli 2025;Perempuan;Gang K.H. Wahid Hasyim No. 13 Meulaboh;Heroin;4 Tahun;Berat
+123;HUW;22 Juli 2025;Laki-Laki;Jalan Jakarta No. 40 ;Ganja;7 Tahun;Sedang
+124;GBK;23 Juli 2025;Laki-Laki;Jalan Medokan Ayu No. 1;Heroin;1 Tahun;Ringan
+125;ZHS;24 Juli 2025;Perempuan;Gg. Erlangga ;Ekstasi;5 Tahun;Ringan
+126;UDM;25 Juli 2025;Laki-Laki;Gg. Waringin No. 5 ;Ekstasi;4 Tahun;Sedang
+127;RWO;26 Juli 2025;Laki-Laki;Gg. Cikutra Barat No. 8 ;Shabu;9 Tahun;Sedang
+128;DTK;29 Juli 2025;Laki-Laki;Gg. Jend. Sudirman No. 8;Ganja;5 Tahun;Berat
+129;LVT;30 Juli 2025;Perempuan;Gang PHH. Mustofa No. 7 ;Ganja;5 Tahun;Berat
+130;TYU;31 Juli 2025;Perempuan;Jl. Erlangga No. 449 Metro, ;Shabu;5 Tahun;Ringan
+131;QR;01 Agustus 2025;Laki-Laki;Gg. Sadang Serang No. 9 Tebingtinggi;"Morfin; Shabu";6 Tahun;Ringan
+132;QS;02 Agustus 2025;Laki-Laki;Gg. Joyoboyo ;Benzodiazepin;2 Tahun;Berat
+133;QT;03 Agustus 2025;Perempuan;Jalan Ciwastra ;Shabu;8 Tahun;Sedang
+134;QU;04 Agustus 2025;Laki-Laki;Gg. Erlangga No. 5 ;Lem;2 Tahun;Berat
+135;QV;05 Agustus 2025;Perempuan;Jl. M.H Thamrin No. 13 Medan, Sumatera Utara ;Shabu;5 Tahun;Berat
+136;QW;06 Agustus 2025;Laki-Laki;Gang Yos Sudarso No. 3 Payakumbuh;Heroin;1 Tahun;Berat
+137;QX;07 Agustus 2025;Laki-Laki;Gang Kendalsari No. 74;Morfin;4 Tahun;Sedang
+138;QY;08 Agustus 2025;Perempuan;Gg. Monginsidi No. 66 ;"Benzodiazepin; Ganja";4 Tahun;Ringan
+139;QZ;09 Agustus 2025;Laki-Laki;Jalan Soekarno Hatta No. 91Sumatera Barat;"Ekstasi; Morfin";2 Tahun;Sedang
+140;RA;10 Agustus 2025;Laki-Laki;Gg. Rajawali Barat No. 85;"Benzodiazepin; Opium";5 Tahun;Berat
+141;RB;11 Agustus 2025;Perempuan;Gang Pelajar Pejuang No. 74 Tanjungbalai;"Shabu; Morfin";3 Tahun;Ringan
+142;RC;12 Agustus 2025;Laki-Laki;Gang Jamika No. 57;Benzodiazepin;1 Tahun;Sedang
+143;RD;13 Agustus 2025;Laki-Laki;Gg. Kutai No. 09 Semarang;Opium;8 Tahun;Ringan
+144;RE;14 Agustus 2025;Laki-Laki;Jl. Kenanga No. 3;"Morfin; Shabu";1 Tahun;Ringan
+145;RF;15 Agustus 2025;Perempuan;Jalan Abdul Muis No. 23 ;"Heroin; Ganja";6 Tahun;Berat
+146;RG;16 Agustus 2025;Laki-Laki;Gang Rungkut Industri No. 501 Sabang;Ganja;3 Tahun;Sedang
+147;RH;17 Agustus 2025;Laki-Laki;Gang Bangka Raya No. 6 Sibolga;"Opium; Shabu";9 Tahun;Sedang
+148;RI;18 Agustus 2025;Laki-Laki;Jl. Kebonjati No. 36;Morfin;8 Tahun;Berat
+149;RJ;19 Agustus 2025;Perempuan;Gg. Ciumbuleuit No. 65 ;"Heroin; Shabu";7 Tahun;Berat
+150;RK;20 Agustus 2025;Laki-Laki;Jl. Dahlia No. 15;"Lem; Morfin";1 Tahun;Ringan
+151;RL;21 Agustus 2025;Laki-Laki;Jalan M.H Thamrin No. 34;"Ganja; Benzodiazepin";9 Tahun;Ringan
+152;RM;22 Agustus 2025;Perempuan;Jl. Stasiun Wonokromo No. 53 Tanjungbalai;"Ganja; Shabu";2 Tahun;Berat
+153;RN;23 Agustus 2025;Perempuan;Gg. Otto Iskandardinata No. 50 ;Lem;4 Tahun;Berat
+154;RO;25 Agustus 2025;Laki-Laki;Jalan Lembong No. 62 ;"Lem; Heroin";3 Tahun;Sedang
+155;RP;26 Agustus 2025;Perempuan;Jalan Otto Iskandardinata No. 66 ;Lem;3 Tahun;Ringan

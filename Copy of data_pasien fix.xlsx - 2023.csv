@@ -1,0 +1,318 @@
+﻿No;Inisial KPN ;Tanggal Mulai Layanan (Tgl/Bln/Thn);Jenis Kelamin ;Alamat Lengkap ;Jenis NAPZA yang digunakan (dapat lebih dari 1);Lama Penggunaan NAPZA;Tingkat Keparahan
+1;LG;01 Januari 2023;Perempuan;Jl. Karya Wisata No. 66;Ganja;13 Tahun;Berat
+2;MH;02 Januari 2023;Laki-Laki;Perumahan Alam Lestari Blok D3 No. 5;"Ganja; Lem";5 Tahun;Sedang
+3;NI;03 Januari 2023;Laki-Laki;Jl. Sisingamangaraja No. 10;"Heroin; Shabu";7 Tahun;Berat
+4;OJ;05 Januari 2023;Perempuan;Komplek Cemara Asri Jalan Kenari No. 9;Ekstasi;3 Tahun;Ringan
+5;PK;06 Januari 2023;Laki-Laki;Jl. Letda Sujono Gg. Suka Damai No. 4;"Opium; Morfin";11 Tahun;Sangat Berat
+6;QL;07 Januari 2023;Laki-Laki;Jl. Kapten Muslim No. 57;"Kokain; LSD";6 Tahun;Berat
+7;RM;08 Januari 2023;Perempuan;Perumahan Taman Setia Budi Indah Blok J2 No. 8;"Shabu; Benzodiazepin";2 Tahun;Ringan
+8;SN;10 Januari 2023;Laki-Laki;Jl. H. Adam Malik No. 15;"Ganja; Alkohol";4 Tahun;Sedang
+9;TO;11 Januari 2023;Laki-Laki;Jl. Medan-Binjai Km 12;"Heroin; Amfetamin";7 Tahun;Berat
+10;UP;12 Januari 2023;Perempuan;Jl. Amir Hamzah Gg. Suka Jaya No. 6;LSD;8 Tahun;Sangat Berat
+11;VQ;13 Januari 2023;Laki-Laki;Desa Sidorejo Dusun II;"Ekstasi; Opium";5 Tahun;Sedang
+12;WR;16 Januari 2023;Perempuan;Jl. Setia Budi No. 123 Kel. Tanjung Sari;"Shabu; Lem";3 Tahun;Ringan
+13;ATW;18 Januari 2023;Perempuan;Gg. Cempaka No. 20 Meulaboh, GO 93723;Shabu;2 Tahun;Ringan
+14;ASP;22 Januari 2023;Laki-Laki;Jalan Peta No. 1 Bogor, Sulawesi Selatan 80473;Ganja;4 Tahun;Berat
+15;KJL;23 Januari 2023;Perempuan;Gang Dipatiukur No. 3 Kota Administrasi Jakarta Selatan, JT 47887;Ekstasi;7 Tahun;Ringan
+16;TEZ;24 Januari 2023;Laki-Laki;Jalan Kutai No. 51 Tegal, KB 32270;Ganja;9 Tahun;Ringan
+17;IZQ;25 Januari 2023;Laki-Laki;Gg. Stasiun Wonokromo No. 805 Blitar, JB 12387;Heroin;7 Tahun;Sedang
+18;QRS;26 Januari 2023;Laki-Laki;Jalan Kebonjati No. 3 Banjar, Sumatera Selatan 78085;Ekstasi;10 Tahun;Ringan
+19;CT;27 Januari 2023;Laki-Laki;Jl. Dahlia No. 15;"Opium; Lem";2 Tahun;Sedang
+20;DX;28 Januari 2023;Laki-Laki;Jl. Mawar No. 10;Morfin;5 Tahun;Ringan
+21;FC;29 Januari 2023;Laki-Laki;Jl. Anggrek No. 7;"Ekstasi; Shabu";3 Tahun;Sedang
+22;GG;30 Januari 2023;Perempuan;Jl. Merpati No. 22;Heroin;10 Tahun;Sedang
+23;MD;31 Januari 2023;Laki-Laki;Jl. Cemara No. 30;Opium;2 Tahun;Sedang
+24;URE;01 Februari 2023;Perempuan;Jl. Lembong No. 620 Tasikmalaya, Sumatera Barat 46120;Heroin;4 Tahun;Sedang
+25;JVP;02 Februari 2023;Perempuan;Jalan Kutisari Selatan No. 8 Bima, Sulawesi Tengah 73965;Ekstasi;5 Tahun;Ringan
+26;RPX;03 Februari 2023;Perempuan;Jalan Raya Ujungberung No. 0 Sawahlunto, JK 97093;Heroin;3 Tahun;Berat
+27;WAN;04 Februari 2023;Perempuan;Jalan Sentot Alibasa No. 83 Sungai Penuh, Kepulauan Bangka Belitung 25744;Ekstasi;8 Tahun;Berat
+28;JHP;05 Februari 2023;Perempuan;Jl. Stasiun Wonokromo No. 58 Sibolga, Maluku Utara 64046;Ganja;6 Tahun;Ringan
+29;WNC;06 Februari 2023;Perempuan;Jl. Cempaka No. 85 Palembang, LA 53674;Ekstasi;4 Tahun;Ringan
+30;CU;07 Februari 2023;Perempuan;Jl. Merpati No. 22;Ekstasi;4 Tahun;Berat
+31;DY;08 Februari 2023;Perempuan;Jl. Merpati No. 22;"Lem; Ganja";3 Tahun;Sedang
+32;FD;09 Februari 2023;Laki-Laki;Jl. Flamboyan No. 19;Ganja;10 Tahun;Ringan
+33;GH;10 Februari 2023;Perempuan;Jl. Cemara No. 30;Ekstasi;5 Tahun;Sedang
+34;ME;11 Februari 2023;Laki-Laki;Jl. Cemara No. 30;"Opium; Ekstasi";4 Tahun;Ringan
+35;XQW;12 Februari 2023;Perempuan;Jl. Ciwastra No. 5 Bogor, Kalimantan Utara 83536;Heroin;2 Tahun;Sedang
+36;XTL;13 Februari 2023;Laki-Laki;Gang PHH. Mustofa No. 575 Pekalongan, NT 69072;Ekstasi;3 Tahun;Berat
+37;CV;14 Februari 2023;Perempuan;Jl. Kenanga No. 3;Lem;4 Tahun;Sedang
+38;DZ;15 Februari 2023;Laki-Laki;Jl. Merpati No. 22;Lem;9 Tahun;Berat
+39;FE;16 Februari 2023;Perempuan;Jl. Rajawali No. 8;Heroin;3 Tahun;Sedang
+40;GI;17 Februari 2023;Laki-Laki;Jl. Cemara No. 30;Lem;1 Tahun;Ringan
+41;MF;18 Februari 2023;Laki-Laki;Jl. Kenanga No. 3;"Ekstasi; Shabu";2 Tahun;Sedang
+42;CW;19 Februari 2023;Laki-Laki;Jl. Kenanga No. 3;Opium;1 Tahun;Sedang
+43;EA;20 Februari 2023;Perempuan;Jl. Cemara No. 30;"Ganja; Heroin";1 Tahun;Sedang
+44;FF;21 Februari 2023;Laki-Laki;Jl. Anggrek No. 7;"Opium; Benzodiazepin";7 Tahun;Ringan
+45;GJ;22 Februari 2023;Laki-Laki;Jl. Mawar No. 10;"Ganja; Ekstasi";10 Tahun;Ringan
+46;MG;23 Februari 2023;Perempuan;Jl. Kemuning No. 12;Morfin;9 Tahun;Berat
+47;EEM;26 Februari 2023;Laki-Laki;Jl. Rajawali No. 8;Ganja;9 Tahun;Berat
+48;BBG;28 Februari 2023;Laki-Laki;Jl. Flamboyan No. 19;Ganja;1 Tahun;Sedang
+49;NLK;01 Maret 2023;Perempuan;Jl. Merpati No. 22;Ekstasi;4 Tahun;Berat
+50;JFD;02 Maret 2023;Laki-Laki;Jl. Kemuning No. 12;Ganja;1 Tahun;Sedang
+51;CX;03 Maret 2023;Perempuan;Jl. Cemara No. 30;"Heroin; Morfin";2 Tahun;Sedang
+52;EB;04 Maret 2023;Perempuan;Jl. Mawar No. 10;"Morfin; Benzodiazepin";6 Tahun;Berat
+53;FG;05 Maret 2023;Perempuan;Jl. Dahlia No. 15;"Benzodiazepin; Heroin";10 Tahun;Berat
+54;GK;06 Maret 2023;Laki-Laki;Jl. Dahlia No. 15;"Ekstasi; Morfin";2 Tahun;Berat
+55;MH;07 Maret 2023;Perempuan;Jl. Dahlia No. 15;"Ganja; Heroin";2 Tahun;Ringan
+56;QXV;09 Maret 2023;Laki-Laki;Jl. Erlangga No. 6 ;Ekstasi;3 Tahun;Sedang
+57;DWT;10 Maret 2023;Laki-Laki;Gg. Raya Ujungberung No. 458 ;Heroin;6 Tahun;Berat
+58;CY;12 Maret 2023;Laki-Laki;Jl. Rajawali No. 8;Heroin;1 Tahun;Sedang
+59;EC;13 Maret 2023;Perempuan;Jl. Kenanga No. 3;Heroin;9 Tahun;Sedang
+60;FH;14 Maret 2023;Laki-Laki;Jl. Merpati No. 22;Ganja;9 Tahun;Sedang
+61;GL;15 Maret 2023;Perempuan;Jl. Rajawali No. 8;"Benzodiazepin; Morfin";10 Tahun;Sedang
+62;MI;16 Maret 2023;Laki-Laki;Jl. Cemara No. 30;Morfin;3 Tahun;Berat
+63;RWE;17 Maret 2023;Perempuan;Gang Stasiun Wonokromo No. 762 ;Ganja;7 Tahun;Sedang
+64;VBI;18 Maret 2023;Laki-Laki;Jl. Dr. Djunjunan No. 6 ;Ganja;5 Tahun;Ringan
+65;CZ;19 Maret 2023;Laki-Laki;Jl. Melati No. 5;Opium;6 Tahun;Berat
+66;ED;20 Maret 2023;Laki-Laki;Jl. Merpati No. 22;"Morfin; Heroin";9 Tahun;Ringan
+67;FI;21 Maret 2023;Laki-Laki;Jl. Dahlia No. 15;"Benzodiazepin; Shabu";8 Tahun;Ringan
+68;GM;22 Maret 2023;Perempuan;Jl. Flamboyan No. 19;"Morfin; Ganja";6 Tahun;Sedang
+69;MJ;23 Maret 2023;Laki-Laki;Jl. Cemara No. 30;Benzodiazepin;4 Tahun;Ringan
+70;IJC;24 Maret 2023;Laki-Laki;Jalan Kiaracondong No. 108 Kota Administrasi Jakarta Pusat, Sumatera Selatan 63341;Ganja;7 Tahun;Sedang
+71;DA;25 Maret 2023;Perempuan;Jl. Cemara No. 30;Ganja;1 Tahun;Ringan
+72;EE;26 Maret 2023;Laki-Laki;Jl. Cemara No. 30;Ekstasi;5 Tahun;Ringan
+73;FJ;27 Maret 2023;Perempuan;Jl. Rajawali No. 8;Shabu;1 Tahun;Ringan
+74;GN;28 Maret 2023;Perempuan;Jl. Rajawali No. 8;Shabu;1 Tahun;Berat
+75;MK;29 Maret 2023;Perempuan;Jl. Anggrek No. 7;Morfin;5 Tahun;Berat
+76;TZR;30 Maret 2023;Laki-Laki;Gang Pasirkoja No. 370 Purwokerto, KS 59439;Shabu;7 Tahun;Berat
+77;KWP;31 Maret 2023;Laki-Laki;Gang Cihampelas No. 23 Bukittinggi, KT 30341;Shabu;2 Tahun;Ringan
+78;DB;01 April 2023;Perempuan;Jl. Kemuning No. 12;"Morfin; Ganja";3 Tahun;Sedang
+79;EF;03 April 2023;Perempuan;Jl. Cemara No. 30;"Benzodiazepin; Morfin";1 Tahun;Sedang
+80;FK;04 April 2023;Laki-Laki;Jl. Kenanga No. 3;Opium;4 Tahun;Sedang
+81;GO;05 April 2023;Perempuan;Jl. Anggrek No. 7;"Opium; Shabu";1 Tahun;Ringan
+82;ML;06 April 2023;Laki-Laki;Jl. Kenanga No. 3;Morfin;9 Tahun;Sedang
+83;CUH;07 April 2023;Perempuan;Jalan Veteran No. 5 Bandar Lampung;Ganja;6 Tahun;Berat
+84;ZQM;08 April 2023;Laki-Laki;Jl. Merpati No. 22;Heroin;9 Tahun;Berat
+85;NFC;09 April 2023;Laki-Laki;Jl. Jend. Sudirman No. 47 Binjai;Shabu;5 Tahun;Sedang
+86;MYM;10 April 2023;Laki-Laki;Gang KH Amin Jasuta ;Heroin;1 Tahun;Berat
+87;VJM;11 April 2023;Laki-Laki;Jalan Veteran No. 4 ;Ganja;1 Tahun;Ringan
+88;DC;12 April 2023;Laki-Laki;Gang Rajawali Barat No. 79 ;Ganja;2 Tahun;Sedang
+89;EG;13 April 2023;Perempuan;Jl. Kendalsari No. 5 Batam;Ganja;6 Tahun;Sedang
+90;FL;14 April 2023;Perempuan;Gg. Dipatiukur No. 37 ;"Ekstasi; Benzodiazepin";1 Tahun;Ringan
+91;GP;15 April 2023;Laki-Laki;Gg. Cempaka No. 27 ;Opium;3 Tahun;Sedang
+92;MM;16 April 2023;Perempuan;Jl. Anggrek No. 7;Morfin;7 Tahun;Sedang
+93;AAA;17 April 2023;Laki-Laki;Gg. Pasteur No. 39 Kendari;Ekstasi;3 Tahun;Berat
+94;FDM;18 April 2023;Perempuan;Gg. Stasiun Wonokromo No. 06 Tanjungbalai;Heroin;3 Tahun;Berat
+95;DD;19 April 2023;Perempuan;Gg. M.H Thamrin No. 79 ;Ekstasi;7 Tahun;Ringan
+96;EH;20 April 2023;Laki-Laki;Jl. Kebonjati No. 9 ;"Lem; Opium";5 Tahun;Berat
+97;FM;21 April 2023;Laki-Laki;Gg. Cikapayang No. 3 Sumatera Utara ;Ganja;1 Tahun;Berat
+98;GQ;22 April 2023;Laki-Laki;Jl. Anggrek No. 7;Shabu;10 Tahun;Ringan
+99;MN;24 April 2023;Perempuan;Jl. Ahmad Yani No. 8;Ekstasi;2 Tahun;Berat
+100;NGO;25 April 2023;Perempuan;Gg. Cihampelas No. 59 ;Ganja;1 Tahun;Berat
+101;OVX;26 April 2023;Perempuan;Gang Wonoayu No. 6;Ganja;9 Tahun;Berat
+102;ZFC;27 April 2023;Laki-Laki;Gg. Stasiun Wonokromo No. 7 Padang Sidempuan;Ganja;1 Tahun;Sedang
+103;DE;28 April 2023;Perempuan;Jl. Rajawali No. 8;"Benzodiazepin; Shabu";5 Tahun;Berat
+104;EI;29 April 2023;Perempuan;Gg. Joyoboyo No. 9;"Benzodiazepin; Lem";4 Tahun;Sedang
+105;FN;30 April 2023;Laki-Laki;Jalan Indragiri No. 92 ;"Opium; Ganja";7 Tahun;Sedang
+106;GR;01 Mei 2023;Perempuan;Jl. Moch. Ramdan No. 3;"Benzodiazepin; Ganja";2 Tahun;Ringan
+107;MO;02 Mei 2023;Perempuan;Jalan Pasir Koja No. 6;Heroin;8 Tahun;Sedang
+108;FZR;03 Mei 2023;Laki-Laki;Jl. Melati No. 5;Ganja;2 Tahun;Berat
+109;HLU;05 Mei 2023;Laki-Laki;Jl. Ahmad Yani No. 32;Heroin;5 Tahun;Ringan
+110;OUK;06 Mei 2023;Perempuan;Jl. Dahlia No. 15;Shabu;2 Tahun;Berat
+111;DF;07 Mei 2023;Perempuan;Jl. Merdeka No. 9;Ekstasi;10 Tahun;Ringan
+112;EJ;08 Mei 2023;Perempuan;Jl. Rajawali No. 8;"Opium; Ekstasi";9 Tahun;Berat
+113;FO;09 Mei 2023;Laki-Laki;Jl. Kenanga No. 3;Ganja;6 Tahun;Ringan
+114;GS;10 Mei 2023;Perempuan;Jl. Kemuning No. 12;Ekstasi;9 Tahun;Berat
+115;MP;11 Mei 2023;Laki-Laki;Jl. Dahlia No. 15;"Benzodiazepin; Morfin";4 Tahun;Ringan
+116;KHM;12 Mei 2023;Laki-Laki;Gg. Kebonjati No. 8 Sumatera Utara ;Shabu;3 Tahun;Sedang
+117;LUU;13 Mei 2023;Perempuan;Jl. Pasirkoja No. 9;Shabu;4 Tahun;Ringan
+118;DMQ;14 Mei 2023;Laki-Laki;Gg. Monginsidi ;Ganja;4 Tahun;Berat
+119;EKZ;15 Mei 2023;Laki-Laki;Gang Kutai No. 50 ;Shabu;9 Tahun;Sedang
+120;OYI;16 Mei 2023;Perempuan;Gang Veteran ;Ekstasi;3 Tahun;Berat
+121;DG;17 Mei 2023;Perempuan;Gg. Merdeka No. 45 Bandar Lampung,;"Opium; Heroin";9 Tahun;Sedang
+122;EK;18 Mei 2023;Perempuan;Jl. Cikutra Timur No. 9;Ganja;6 Tahun;Ringan
+123;FP;19 Mei 2023;Laki-Laki;Gang Sadang Serang No. 82;Ganja;7 Tahun;Sedang
+124;GT;20 Mei 2023;Laki-Laki;Jl. Dahlia No. 15;Ekstasi;8 Tahun;Ringan
+125;MQ;21 Mei 2023;Perempuan;Jalan Asia Afrika No. 3 Subulussalam;Shabu;10 Tahun;Sedang
+126;XMV;22 Mei 2023;Laki-Laki;Jalan Sukajadi No. 77 ;Ekstasi;1 Tahun;Berat
+127;YXK;23 Mei 2023;Perempuan;Gang Gegerkalong Hilir No. 4 ;Shabu;8 Tahun;Sedang
+128;AOZ;25 Mei 2023;Laki-Laki;Jalan Sentot Alibasa No. 718 Tegal, PB 77014;Ekstasi;10 Tahun;Sedang
+129;XSB;26 Mei 2023;Laki-Laki;Jalan Pasteur No. 27 ;Heroin;6 Tahun;Sedang
+130;DH;28 Mei 2023;Perempuan;Jl. Kenanga No. 3;"Ganja; Lem";10 Tahun;Berat
+131;EL;29 Mei 2023;Perempuan;Jl. Dahlia No. 15;"Ekstasi; Morfin";2 Tahun;Sedang
+132;FQ;30 Mei 2023;Perempuan;Jl. Kemuning No. 12;Morfin;8 Tahun;Berat
+133;GU;31 Mei 2023;Laki-Laki;Jl. Cemara No. 30;"Lem; Shabu";7 Tahun;Berat
+134;MR;01 Juni 2023;Perempuan;Jl. Cemara No. 30;"Benzodiazepin; Opium";5 Tahun;Sedang
+135;TYK;02 Juni 2023;Laki-Laki;Gang Sukabumi No. 5 ;Ekstasi;1 Tahun;Berat
+136;HZE;03 Juni 2023;Laki-Laki;Jalan Antapani Lama No. 94 ;Ekstasi;5 Tahun;Sedang
+137;IUG;04 Juni 2023;Perempuan;Jalan Medokan Ayu ;Shabu;3 Tahun;Ringan
+138;DI;05 Juni 2023;Perempuan;Jl. Merpati No. 22;"Lem; Heroin";10 Tahun;Ringan
+139;EM;06 Juni 2023;Laki-Laki;Jl. Kenanga No. 3;Benzodiazepin;7 Tahun;Sedang
+140;FR;07 Juni 2023;Perempuan;Jl. Kemuning No. 12;Shabu;8 Tahun;Ringan
+141;GV;08 Juni 2023;Perempuan;Jl. Flamboyan No. 19;Morfin;1 Tahun;Ringan
+142;LO;09 Juni 2023;Laki-Laki;Jl. Rajawali No. 8;Lem;8 Tahun;Ringan
+143;MS;10 Juni 2023;Perempuan;Jl. Merpati No. 22;Ganja;3 Tahun;Ringan
+144;GXP;11 Juni 2023;Perempuan;Gg. Tubagus Ismail No. 04;Heroin;6 Tahun;Sedang
+145;EPC;12 Juni 2023;Perempuan;Jalan Erlangga ;Shabu;7 Tahun;Berat
+146;BHB;14 Juni 2023;Perempuan;Jalan Rungkut Industri ;Ganja;3 Tahun;Berat
+147;AUG;15 Juni 2023;Laki-Laki;Jalan Jakarta Sibolga;Heroin;2 Tahun;Ringan
+148;DJ;16 Juni 2023;Perempuan;Gang Pasirkoja No. 8 ;"Ganja; Shabu";1 Tahun;Ringan
+149;EN;17 Juni 2023;Laki-Laki;Gg. Kendalsari No. 05 ;Lem;7 Tahun;Berat
+150;FS;19 Juni 2023;Perempuan;Jalan Sukabumi No. 4 ;Ekstasi;5 Tahun;Ringan
+151;GW;20 Juni 2023;Laki-Laki;Jl. Merpati No. 22;Morfin;5 Tahun;Berat
+152;LP;21 Juni 2023;Laki-Laki;Jl. Kemuning No. 12;Opium;8 Tahun;Berat
+153;MT;23 Juni 2023;Laki-Laki;Jl. Dahlia No. 15;Opium;10 Tahun;Berat
+154;EJN;24 Juni 2023;Perempuan;Jl. H.J Maemunah No. 6 Bandung, BT 45569;Ekstasi;8 Tahun;Berat
+155;XUX;25 Juni 2023;Laki-Laki;Jalan Setiabudhi No. 44 Lhokseumawe, KI 38852;Ganja;3 Tahun;Ringan
+156;XBY;27 Juni 2023;Perempuan;Jalan Bangka Raya No. 695 Langsa, Maluku 22787;Heroin;1 Tahun;Berat
+157;FVC;28 Juni 2023;Laki-Laki;Gg. Ahmad Dahlan No. 9 Kupang, DI Yogyakarta 38480;Heroin;3 Tahun;Berat
+158;MEQ;29 Juni 2023;Perempuan;Jl. Ahmad Yani No. 987 Serang, Sulawesi Selatan 52377;Heroin;4 Tahun;Berat
+159;DK;30 Juni 2023;Perempuan;Jl. Kemuning No. 12;"Ganja; Morfin";7 Tahun;Sedang
+160;EO;01 Juli 2023;Perempuan;Jl. Rajawali No. 8;Morfin;3 Tahun;Berat
+161;FT;03 Juli 2023;Perempuan;Jl. Rajawali No. 8;"Heroin; Ganja";10 Tahun;Ringan
+162;GX;04 Juli 2023;Perempuan;Jl. Kemuning No. 12;"Opium; Lem";3 Tahun;Berat
+163;LQ;07 Juli 2023;Perempuan;Jl. Merpati No. 22;Ekstasi;10 Tahun;Ringan
+164;MU;08 Juli 2023;Laki-Laki;Jl. Merpati No. 22;"Morfin; Lem";9 Tahun;Sedang
+165;XPB;10 Juli 2023;Laki-Laki;Jl. Rumah Sakit No. 613 Tanjungpinang, JI 69384;Shabu;9 Tahun;Sedang
+166;WXW;11 Juli 2023;Perempuan;Jl. Laswi No. 47 Denpasar, Kalimantan Tengah 39895;Ganja;4 Tahun;Ringan
+167;DL;13 Juli 2023;Perempuan;Jl. Merpati No. 22;Morfin;4 Tahun;Ringan
+168;EP;15 Juli 2023;Laki-Laki;Jl. Rajawali No. 8;Shabu;6 Tahun;Ringan
+169;FU;16 Juli 2023;Perempuan;Jl. Merpati No. 22;Ganja;8 Tahun;Ringan
+170;GY;17 Juli 2023;Laki-Laki;Jl. Mawar No. 10;Shabu;2 Tahun;Sedang
+171;LR;18 Juli 2023;Perempuan;Jl. Kemuning No. 12;Heroin;6 Tahun;Berat
+172;MV;20 Juli 2023;Laki-Laki;Jl. Mawar No. 10;Ganja;6 Tahun;Ringan
+173;YHX;21 Juli 2023;Laki-Laki;Jl. Pasirkoja No. 080 Tomohon, KR 60336;Ekstasi;1 Tahun;Ringan
+174;LWC;22 Juli 2023;Perempuan;Gg. Kendalsari No. 50;Ganja;7 Tahun;Ringan
+175;ATV;23 Juli 2023;Perempuan;Jl. Stasiun Wonokromo ;Ekstasi;10 Tahun;Sedang
+176;CIT;24 Juli 2023;Perempuan;Gg. Sentot Alibasa No. 65;Shabu;10 Tahun;Berat
+177;XDN;25 Juli 2023;Laki-Laki;Jl. Merpati No. 22;Heroin;6 Tahun;Berat
+178;DM;26 Juli 2023;Perempuan;Gang K.H. Wahid Hasyim No. 13 Meulaboh;Benzodiazepin;3 Tahun;Ringan
+179;EQ;29 Juli 2023;Laki-Laki;Jalan Jakarta No. 40 ;Lem;5 Tahun;Sedang
+180;FV;30 Juli 2023;Perempuan;Jl. Melati No. 5;"Ekstasi; Morfin";1 Tahun;Sedang
+181;GZ;31 Juli 2023;Laki-Laki;Jl. Flamboyan No. 19;"Shabu; Heroin";3 Tahun;Berat
+182;LS;01 Agustus 2023;Laki-Laki;Jl. Flamboyan No. 19;Benzodiazepin;2 Tahun;Berat
+183;MW;02 Agustus 2023;Perempuan;Jl. Melati No. 5;"Ganja; Benzodiazepin";2 Tahun;Ringan
+184;BEM;03 Agustus 2023;Laki-Laki;Jalan Medokan Ayu No. 1;Ekstasi;7 Tahun;Berat
+185;XBE;04 Agustus 2023;Laki-Laki;Gg. Erlangga ;Shabu;7 Tahun;Ringan
+186;SLC;05 Agustus 2023;Perempuan;Gg. Waringin No. 5 ;Ganja;5 Tahun;Sedang
+187;HJT;06 Agustus 2023;Laki-Laki;Gg. Cikutra Barat No. 8 ;Heroin;6 Tahun;Berat
+188;MQH;07 Agustus 2023;Perempuan;Gg. Jend. Sudirman No. 8;Ganja;8 Tahun;Berat
+189;KJF;08 Agustus 2023;Laki-Laki;Gang PHH. Mustofa No. 7 ;Heroin;8 Tahun;Ringan
+190;CI;09 Agustus 2023;Laki-Laki;Jl. Erlangga No. 449 Metro, ;"Opium; Lem";6 Tahun;Ringan
+191;DN;10 Agustus 2023;Perempuan;Gg. Sadang Serang No. 9 Tebingtinggi;Lem;9 Tahun;Berat
+192;ER;11 Agustus 2023;Laki-Laki;Gg. Joyoboyo ;"Shabu; Ekstasi";1 Tahun;Berat
+193;FW;12 Agustus 2023;Perempuan;Jalan Ciwastra ;Opium;5 Tahun;Berat
+194;HA;13 Agustus 2023;Laki-Laki;Gg. Erlangga No. 5 ;Opium;1 Tahun;Ringan
+195;LT;14 Agustus 2023;Perempuan;Jl. Mawar No. 10;"Benzodiazepin; Opium";3 Tahun;Ringan
+196;MX;15 Agustus 2023;Laki-Laki;Jl. Merpati No. 22;"Benzodiazepin; Ganja";8 Tahun;Ringan
+197;GPH;16 Agustus 2023;Perempuan;Gang Rungkut Industri No. 93 Langsa;Shabu;10 Tahun;Ringan
+198;FCD;17 Agustus 2023;Perempuan;Gang Sentot Alibasa ;Heroin;2 Tahun;Berat
+199;CJ;18 Agustus 2023;Laki-Laki;Jl. Dahlia No. 15;Benzodiazepin;10 Tahun;Berat
+200;DO;19 Agustus 2023;Laki-Laki;Jl. Kemuning No. 12;Heroin;10 Tahun;Berat
+201;ES;20 Agustus 2023;Perempuan;Jl. Rajawali No. 8;"Shabu; Lem";4 Tahun;Sedang
+202;FX;21 Agustus 2023;Laki-Laki;Jl. Rajawali No. 8;"Morfin; Opium";1 Tahun;Sedang
+203;HB;22 Agustus 2023;Laki-Laki;Jl. Cemara No. 30;Opium;2 Tahun;Ringan
+204;LU;23 Agustus 2023;Laki-Laki;Jl. Kemuning No. 12;Opium;8 Tahun;Berat
+205;BNK;25 Agustus 2023;Laki-Laki;Gang Abdul Muis No. 03 Bogor, MA 60270;Shabu;4 Tahun;Ringan
+206;CK;26 Agustus 2023;Laki-Laki;Jl. Mawar No. 10;Heroin;7 Tahun;Sedang
+207;DP;27 Agustus 2023;Perempuan;Jl. Merpati No. 22;Lem;2 Tahun;Berat
+208;ET;28 Agustus 2023;Laki-Laki;Jl. Melati No. 5;Benzodiazepin;1 Tahun;Sedang
+209;FY;30 Agustus 2023;Laki-Laki;Jl. Kemuning No. 12;Lem;7 Tahun;Berat
+210;HC;31 Agustus 2023;Perempuan;Jl. Cemara No. 30;Lem;5 Tahun;Sedang
+211;LV;01 September 2023;Perempuan;Jl. Cemara No. 30;"Ekstasi; Morfin";3 Tahun;Ringan
+212;YNP;02 September 2023;Perempuan;Jl. M.H Thamrin No. 13 Medan, Sumatera Utara ;Shabu;10 Tahun;Ringan
+213;ATV;03 September 2023;Perempuan;Gang Yos Sudarso No. 3 Payakumbuh;Heroin;6 Tahun;Sedang
+214;ODR;04 September 2023;Perempuan;Gang Kendalsari No. 74;Ganja;9 Tahun;Ringan
+215;JDD;05 September 2023;Perempuan;Gg. Monginsidi No. 66 ;Shabu;8 Tahun;Sedang
+216;DSO;06 September 2023;Perempuan;Jalan Soekarno Hatta No. 91Sumatera Barat;Ekstasi;1 Tahun;Sedang
+217;CL;07 September 2023;Perempuan;Jl. Rajawali No. 8;"Benzodiazepin; Lem";1 Tahun;Ringan
+218;DQ;08 September 2023;Perempuan;Jl. Anggrek No. 7;Ganja;5 Tahun;Sedang
+219;EU;09 September 2023;Laki-Laki;Jl. Flamboyan No. 19;Ekstasi;1 Tahun;Ringan
+220;FZ;10 September 2023;Laki-Laki;Jl. Merpati No. 22;"Lem; Shabu";9 Tahun;Berat
+221;HD;12 September 2023;Laki-Laki;Jl. Kenanga No. 3;Ekstasi;10 Tahun;Ringan
+222;LW;14 September 2023;Perempuan;Jl. Flamboyan No. 19;"Lem; Heroin";9 Tahun;Berat
+223;PYZ;15 September 2023;Laki-Laki;Gg. Kutai No. 09 Semarang;Ekstasi;5 Tahun;Berat
+224;GLM;16 September 2023;Perempuan;Jl. Kenanga No. 3;Ganja;6 Tahun;Ringan
+225;MJA;17 September 2023;Laki-Laki;Jalan Abdul Muis No. 23 ;Heroin;7 Tahun;Ringan
+226;NYL;18 September 2023;Laki-Laki;Gang Rungkut Industri No. 501 Sabang;Ganja;7 Tahun;Berat
+227;DFX;19 September 2023;Perempuan;Gang Bangka Raya No. 6 Sibolga;Ekstasi;9 Tahun;Sedang
+228;XQW;20 September 2023;Laki-Laki;Jl. Kebonjati No. 36;Ekstasi;9 Tahun;Berat
+229;CM;21 September 2023;Perempuan;Gg. Ciumbuleuit No. 65 ;Lem;8 Tahun;Sedang
+230;DR;22 September 2023;Perempuan;Jl. Kemuning No. 12;"Opium; Heroin";4 Tahun;Sedang
+231;EV;24 September 2023;Perempuan;Jl. Kenanga No. 3;Opium;2 Tahun;Ringan
+232;GA;25 September 2023;Laki-Laki;Jl. Kenanga No. 3;"Ekstasi; Lem";9 Tahun;Sedang
+233;HE;27 September 2023;Laki-Laki;Jl. Cemara No. 30;Ganja;2 Tahun;Berat
+234;LX;28 September 2023;Laki-Laki;Jl. Dahlia No. 15;Opium;7 Tahun;Berat
+235;MNS;29 September 2023;Laki-Laki;Gang Moch. Toha No. 91 ;Ganja;7 Tahun;Sedang
+236;HED;01 Oktober 2023;Perempuan;Jalan Cikapayang No. 3 ;Ganja;6 Tahun;Sedang
+237;CN;02 Oktober 2023;Perempuan;Jl. Mawar No. 10;Ganja;2 Tahun;Sedang
+238;DS;03 Oktober 2023;Perempuan;Jl. Kenanga No. 3;Opium;5 Tahun;Sedang
+239;EW;04 Oktober 2023;Laki-Laki;Jl. Mawar No. 10;Morfin;8 Tahun;Sedang
+240;GB;05 Oktober 2023;Perempuan;Jl. Kemuning No. 12;Ekstasi;8 Tahun;Ringan
+241;HF;06 Oktober 2023;Perempuan;Jl. Flamboyan No. 19;"Shabu; Lem";4 Tahun;Berat
+242;LY;07 Oktober 2023;Perempuan;Jl. Mawar No. 10;Ganja;7 Tahun;Berat
+243;EAJ;08 Oktober 2023;Laki-Laki;Jl. Stasiun Wonokromo No. 53 Tanjungbalai;Heroin;6 Tahun;Ringan
+244;UHR;09 Oktober 2023;Perempuan;Gg. Otto Iskandardinata No. 50 ;Ganja;8 Tahun;Berat
+245;LOV;10 Oktober 2023;Perempuan;Jalan Lembong No. 62 ;Ekstasi;9 Tahun;Sedang
+246;QAZ;11 Oktober 2023;Laki-Laki;Jalan Otto Iskandardinata No. 66 ;Heroin;3 Tahun;Berat
+247;TVJ;12 Oktober 2023;Laki-Laki;Gg. Waringin;Ekstasi;6 Tahun;Sedang
+248;EMF;13 Oktober 2023;Perempuan;Jl. Erlangga ;Heroin;1 Tahun;Sedang
+249;CO;14 Oktober 2023;Laki-Laki;Gang Sukabumi ;"Heroin; Lem";5 Tahun;Sedang
+250;DT;15 Oktober 2023;Laki-Laki;Jl. Anggrek No. 7;"Ganja; Benzodiazepin";6 Tahun;Sedang
+251;EX;16 Oktober 2023;Perempuan;Jl. Cemara No. 30;"Benzodiazepin; Heroin";4 Tahun;Sedang
+252;GC;17 Oktober 2023;Perempuan;Jl. Cemara No. 30;Benzodiazepin;3 Tahun;Sedang
+253;HG;18 Oktober 2023;Laki-Laki;Jl. Merpati No. 22;Morfin;6 Tahun;Berat
+254;LZ;19 Oktober 2023;Perempuan;Jl. Flamboyan No. 19;Opium;8 Tahun;Berat
+255;KPI;20 Oktober 2023;Perempuan;Gang Laswi ;Ganja;6 Tahun;Berat
+256;BMH;21 Oktober 2023;Laki-Laki;Gg. Rungkut Industri ;Ganja;1 Tahun;Sedang
+257;KHS;22 Oktober 2023;Perempuan;Jalan Sukajadi No. 3 ;Shabu;5 Tahun;Ringan
+258;MBA;23 Oktober 2023;Perempuan;Jalan Dipenogoro No. 87 ;Ganja;4 Tahun;Sedang
+259;CP;24 Oktober 2023;Laki-Laki;Jalan Cempaka No. 67;"Heroin; Lem";10 Tahun;Ringan
+260;DU;25 Oktober 2023;Perempuan;Jl. Jamika No. 9;Ganja;1 Tahun;Sedang
+261;EY;26 Oktober 2023;Laki-Laki;Gang Asia Afrika No. 73 ;"Morfin; Ganja";9 Tahun;Berat
+262;GD;27 Oktober 2023;Laki-Laki;Jl. Rajawali No. 8;"Lem; Ekstasi";10 Tahun;Ringan
+263;HH;28 Oktober 2023;Perempuan;Jl. Rajawali No. 8;"Benzodiazepin; Lem";4 Tahun;Ringan
+264;MA;29 Oktober 2023;Perempuan;Jl. Kemuning No. 12;Lem;7 Tahun;Sedang
+265;PBR;30 Oktober 2023;Perempuan;Gang M.T Haryono No. 368 Bengkulu, Bali 50790;Heroin;2 Tahun;Berat
+266;CQ;31 Oktober 2023;Laki-Laki;Jl. Anggrek No. 7;"Ekstasi; Opium";2 Tahun;Ringan
+267;DV;01 November 2023;Laki-Laki;Jl. Dahlia No. 15;"Opium; Ekstasi";2 Tahun;Berat
+268;EZ;02 November 2023;Laki-Laki;Jl. Kenanga No. 3;Heroin;2 Tahun;Ringan
+269;GE;03 November 2023;Perempuan;Jl. Cemara No. 30;"Opium; Shabu";2 Tahun;Sedang
+270;MB;04 November 2023;Laki-Laki;Jl. Rajawali No. 8;Ganja;3 Tahun;Sedang
+271;XOX;05 November 2023;Laki-Laki;Gang Sukabumi ;Shabu;9 Tahun;Sedang
+272;LNS;06 November 2023;Perempuan;Gg. Astana Anyar N;Ganja;6 Tahun;Sedang
+273;VGA;07 November 2023;Laki-Laki;Jl. Joyoboyo No. 1 Tual, LA 82816;Ekstasi;2 Tahun;Berat
+274;PIF;08 November 2023;Perempuan;Jl. Raya Ujungberung ;Ekstasi;1 Tahun;Ringan
+275;DGQ;09 November 2023;Laki-Laki;Jalan Dipenogoro ;Ekstasi;8 Tahun;Ringan
+276;ZWG;10 November 2023;Perempuan;Jalan Jayawijaya ;Heroin;8 Tahun;Ringan
+277;IJM;11 November 2023;Perempuan;Gg. Indragiri No. 23;Ekstasi;5 Tahun;Berat
+278;YWQ;12 November 2023;Laki-Laki;Jl. Sukajadi ;Ekstasi;7 Tahun;Sedang
+279;CR;13 November 2023;Perempuan;Gg. Rungkut Industri ;"Opium; Ekstasi";10 Tahun;Sedang
+280;DW;14 November 2023;Laki-Laki;Gang H.J Maemunah ;Ganja;6 Tahun;Sedang
+281;FA;15 November 2023;Perempuan;Jl. Kebonjati No. 761 Pontianak;Lem;1 Tahun;Sedang
+282;GF;16 November 2023;Perempuan;Gang KH Amin Jasuta ;"Lem; Heroin";5 Tahun;Ringan
+283;MC;17 November 2023;Laki-Laki;Jl. Pasteur ;Shabu;9 Tahun;Sedang
+284;ESD;18 November 2023;Laki-Laki;Jalan Sukabumi No. 6 Palu, Sulawesi Selatan ;Heroin;7 Tahun;Ringan
+285;CS;19 November 2023;Perempuan;Jl. Merpati No. 22;"Benzodiazepin; Morfin";9 Tahun;Ringan
+286;FB;20 November 2023;Laki-Laki;Jl. Mawar No. 10;"Shabu; Ganja";2 Tahun;Ringan
+287;PB;21 November 2023;Perempuan;Jl. Cemara No. 30;Opium;9 Tahun;Sedang
+288;PC;23 November 2023;Perempuan;Jl. Dahlia No. 15;Morfin;9 Tahun;Ringan
+289;PD;24 November 2023;Perempuan;Jl. Melati No. 5;Benzodiazepin;6 Tahun;Berat
+290;PE;25 November 2023;Laki-Laki;Jl. Flamboyan No. 19;"Shabu; Ekstasi";10 Tahun;Ringan
+291;PF;26 November 2023;Perempuan;Jl. Kemuning No. 12;Morfin;8 Tahun;Berat
+292;PG;27 November 2023;Perempuan;Jl. Anggrek No. 7;Ekstasi;6 Tahun;Ringan
+293;PH;28 November 2023;Perempuan;Jl. Kemuning No. 12;"Heroin; Shabu";4 Tahun;Ringan
+294;PI;29 November 2023;Perempuan;Jl. Kenanga No. 3;"Heroin; Shabu";5 Tahun;Sedang
+295;PJ;30 November 2023;Laki-Laki;Jl. Mawar No. 10;"Lem; Opium";2 Tahun;Sedang
+296;PK;01 Desember 2023;Perempuan;Jl. Kenanga No. 3;"Opium; Ekstasi";7 Tahun;Sedang
+297;PL;03 Desember 2023;Perempuan;Jl. Flamboyan No. 19;"Morfin; Opium";3 Tahun;Sedang
+298;PM;04 Desember 2023;Laki-Laki;Jl. Rajawali No. 8;"Ekstasi; Benzodiazepin";7 Tahun;Ringan
+299;PN;08 Desember 2023;Perempuan;Jl. Cemara No. 30;"Morfin; Ekstasi";6 Tahun;Berat
+300;PO;09 Desember 2023;Perempuan;Jl. Flamboyan No. 19;"Heroin; Shabu";5 Tahun;Ringan
+301;PP;10 Desember 2023;Perempuan;Jl. Flamboyan No. 19;Benzodiazepin;4 Tahun;Ringan
+302;PQ;11 Desember 2023;Laki-Laki;Jl. Kemuning No. 12;"Ekstasi; Ganja";1 Tahun;Ringan
+303;PR;12 Desember 2023;Laki-Laki;Jl. Mawar No. 10;Ganja;6 Tahun;Ringan
+304;PS;13 Desember 2023;Laki-Laki;Jl. Flamboyan No. 19;Heroin;8 Tahun;Sedang
+305;PT;15 Desember 2023;Laki-Laki;Jl. Anggrek No. 7;"Morfin; Ekstasi";10 Tahun;Berat
+306;PU;16 Desember 2023;Laki-Laki;Jl. Merpati No. 22;Ekstasi;9 Tahun;Sedang
+307;PV;17 Desember 2023;Laki-Laki;Jl. Flamboyan No. 19;Ekstasi;9 Tahun;Berat
+308;PW;19 Desember 2023;Perempuan;Jl. Flamboyan No. 19;Shabu;1 Tahun;Sedang
+309;PX;21 Desember 2023;Perempuan;Jl. Kemuning No. 12;"Lem; Benzodiazepin";8 Tahun;Sedang
+310;PY;22 Desember 2023;Laki-Laki;Jl. Rajawali No. 8;Morfin;2 Tahun;Sedang
+311;PZ;23 Desember 2023;Perempuan;Jl. Anggrek No. 7;Heroin;3 Tahun;Sedang
+312;QA;24 Desember 2023;Perempuan;Jl. Rajawali No. 8;"Morfin; Ganja";2 Tahun;Sedang
+313;QB;26 Desember 2023;Perempuan;Jl. Melati No. 5;Opium;9 Tahun;Ringan
+314;QC;27 Desember 2023;Perempuan;Jl. Flamboyan No. 19;"Heroin; Benzodiazepin";3 Tahun;Berat
+315;QD;28 Desember 2023;Perempuan;Jl. Cemara No. 30;Morfin;10 Tahun;Sedang
+316;QE;29 Desember 2023;Perempuan;Jl. Anggrek No. 7;"Shabu; Morfin";10 Tahun;Ringan
+317;QF;30 Desember 2023;Perempuan;Jl. Rajawali No. 8;Opium;1 Tahun;Berat
