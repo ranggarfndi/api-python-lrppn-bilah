@@ -1,0 +1,6 @@
+,jenis_kelamin,lama_penggunaan,urica_score,gender_encoded,lama_encoded,urica_encoded
+0,Laki-Laki,8 Tahun,11,1,8.0,0.5263157894736843
+1,Perempuan,2 Tahun,15,0,2.0,0.736842105263158
+2,Laki-Laki,7 Tahun,7,1,7.0,0.3157894736842105
+3,Perempuan,3 Tahun,17,0,3.0,0.8421052631578947
+4,Perempuan,10 Tahun,7,0,10.0,0.3157894736842105
